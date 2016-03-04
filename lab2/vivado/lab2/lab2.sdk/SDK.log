@@ -4,3 +4,20 @@
 13:15:30 INFO  : Invoking Bootgen: bootgen -image output.bif -o /home/INTRA/ahelkh/workspace/lab2/sd-temp/BOOT.bin
 13:15:30 INFO  : Creating new bif file /home/INTRA/ahelkh/workspace/lab2/sd-temp/output.bif
 13:15:31 INFO  : Bootgen command execution is done.
+10:50:18 INFO  : Processing command line option -hwspec /home/INTRA/ahelkh/workspcae/lab2/vivado/lab2/lab2.sdk/lab2_SoC_wrapper.hdf.
+10:50:19 INFO  : Launching XSDB server: xsdb -n -s /cad/x_15/SDK/2015.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+10:50:21 INFO  : XSDB server has started successfully.
+10:55:20 INFO  : Processing command line option -hwspec /home/INTRA/ahelkh/workspace/lab2/vivado/lab2/lab2.sdk/lab2_SoC_wrapper.hdf.
+10:55:21 INFO  : Launching XSDB server: xsdb -n -s /cad/x_15/SDK/2015.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+10:55:21 INFO  : Checking for hwspec changes in the project lab2_SoC_wrapper_hw_platform_0.
+10:55:21 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1457080706000,  Project:1456923691000
+10:55:21 INFO  : The hardware specification for project 'lab2_SoC_wrapper_hw_platform_0' is different from /home/INTRA/ahelkh/workspace/lab2/vivado/lab2/lab2.sdk/lab2_SoC_wrapper.hdf.
+10:55:21 INFO  : Copied contents of /home/INTRA/ahelkh/workspace/lab2/vivado/lab2/lab2.sdk/lab2_SoC_wrapper.hdf into /lab2_SoC_wrapper_hw_platform_0/system.hdf.
+10:55:22 INFO  : XSDB server has started successfully.
+10:55:26 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+10:55:29 INFO  : 
+10:55:30 INFO  : Updating hardware inferred compiler options for FSBL.
+10:55:30 INFO  : Clearing existing target manager status.
+10:55:33 INFO  : Closing and re-opening the MSS file of ther project FSBL_bsp
+10:55:33 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+11:04:18 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
