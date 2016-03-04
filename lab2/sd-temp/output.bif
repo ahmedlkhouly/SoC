@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/home/INTRA/ahelkh/workspace/lab2/sd-temp/FSBL.elf
+	/home/INTRA/ahelkh/workspace/lab2/sd-temp/lab2_SoC_wrapper.bit
+	/home/INTRA/ahelkh/workspace/lab2/sd-temp/u-boot.elf
+}

@@ -1,0 +1,6 @@
+13:01:04 INFO  : Processing command line option -hwspec /home/INTRA/ahelkh/workspace/lab2/vivado/lab2/lab2.sdk/lab2_SoC_wrapper.hdf.
+13:01:05 INFO  : Launching XSDB server: xsdb -n -s /cad/x_15/SDK/2015.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+13:01:06 INFO  : XSDB server has started successfully.
+13:15:30 INFO  : Invoking Bootgen: bootgen -image output.bif -o /home/INTRA/ahelkh/workspace/lab2/sd-temp/BOOT.bin
+13:15:30 INFO  : Creating new bif file /home/INTRA/ahelkh/workspace/lab2/sd-temp/output.bif
+13:15:31 INFO  : Bootgen command execution is done.
